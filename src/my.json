@@ -1,0 +1,10 @@
+{
+  "name": "Lena",
+  "version": "1.0.0",
+  "bio": {
+    "city": "Kyiv",
+    "year": 30,
+    "stack": ["HTML/CSS", "JS", "React", "Redux"]
+  },
+  "contact": "https://www.linkedin.com/feed/"
+}
